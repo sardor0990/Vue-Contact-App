@@ -1,5 +1,7 @@
 # vue-contact-app
 
+<img src="src/assets/photo1.png" alt="" >
+
 ## Project setup
 ```
 npm install
