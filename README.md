@@ -17,11 +17,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Inorder to run server  
 ```
 cd server
@@ -31,6 +26,11 @@ cd server
 ```
 
 npm install, npm start
+```
+
+### Lints and fixes files
+```
+npm run lint
 ```
 
 ### Customize configuration
