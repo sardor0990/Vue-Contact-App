@@ -22,7 +22,14 @@ npm run build
 npm run lint
 ```
 
-### Inorder to run server cd server, npm install, npm start 
+### Inorder to run server  
+```
+cd server
+```
+npm install
+```
+
+npm start
 ```
 
 ### Customize configuration
