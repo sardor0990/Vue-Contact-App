@@ -26,6 +26,7 @@ npm run lint
 ```
 cd server
 ```
+
 npm install
 ```
 
